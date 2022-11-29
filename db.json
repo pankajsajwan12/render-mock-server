@@ -11,5 +11,13 @@
                 "cost": 1299,
                 "borrowed": false
           }  
+    ],
+    "userDetails":[
+        {
+            "id":1,
+            "name":"pankaj",
+            "email":"pankaj12@gmail.com",
+            "password":"pankaj@#123"
+        }
     ]
 }
