@@ -28,5 +28,12 @@
             "email":"pankaj12@gmail.com",
             "password":"pankaj@#123"
         }
+    ],
+    "tweet":[
+        {
+            "id":1,
+            "message":"hy my name is pankaj singh",
+            "gif":"https://i.pravatar.cc/150?u=a042581f4e29026704d"
+        }
     ]
 }
