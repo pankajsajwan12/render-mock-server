@@ -23,10 +23,19 @@
     "user":[
         {
             "id":1,
-            "avtar":"https://i.pravatar.cc/150?u=a042581f4e29026704d",
-            "full_name":"Pankaj Singh Sajwan",
-            "email":"pankaj12@gmail.com",
-            "password":"pankaj@#123"
+            "name":"pankaj",
+            "age":"24",
+            "gender":"male",
+            "country":"India",
+            "profession":"student"
+        },
+        {
+            "id":2,
+            "name":"rahul",
+            "age":"28",
+            "gender":"male",
+            "country":"Aus",
+            "profession":"Employed"
         }
     ],
     "tweet":[
