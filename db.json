@@ -69,5 +69,25 @@
             "position": "Junior Frontend Developer",
             "language": "Java"
         }
+    ],
+    "note_user":[
+        {
+            "id":1,
+            "title":"my reading",
+            "description":"I want to read one book in this months",
+            "date":"22-12-2022"
+        },
+        {
+            "id":2,
+            "title":"Project",
+            "description":"I want to make a full stack project in this months",
+            "date":"22-12-2022"
+        },
+        {
+            "id":3,
+            "title":"Jobs",
+            "description":"I want to get a job next months",
+            "date":"22-12-2022"
+        }
     ]
 }
